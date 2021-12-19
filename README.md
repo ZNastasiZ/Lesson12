@@ -1,10 +1,8 @@
 # Introduction Java 
 **Homework 12** consists of two tasks:
 
-![Screenshot](https://github.com/ZNastasiZ/Lesson12/raw/main/src/img.png)
-
-
-  Есть 4 типа юнитов: башня, забор, содат и танк.
+<img alt="Screenshot" height="100" align="left" src="https://github.com/ZNastasiZ/Lesson12/raw/main/src/img.png" width="120"/>
+    Есть 4 типа юнитов: башня, забор, содат и танк.
  	Забор ничего не делает и может быть разрушен
    	Башня ничего не делает и безсмертна
    	Солдат стреляет и двигается - у него можно вызвать методы move() и fire()
