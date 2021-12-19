@@ -1,6 +1,9 @@
 # Introduction Java 
 **Homework 12** consists of two tasks:
 
+![Screenshot](https://github.com/ZNastasiZ/Lesson12/raw/main/src/img.png)
+
+
   Есть 4 типа юнитов: башня, забор, содат и танк.
  	Забор ничего не делает и может быть разрушен
    	Башня ничего не делает и безсмертна
