@@ -1,8 +1,6 @@
 # Introduction Java 
 **Homework 12** consists of two tasks:
 
-![](C:\Lesson12\src\img.png)
-
   Есть 4 типа юнитов: башня, забор, содат и танк.
  	Забор ничего не делает и может быть разрушен
    	Башня ничего не делает и безсмертна
@@ -15,5 +13,5 @@
 2*) Задана строка из английских слов через пробел. Написать метод который возвращает те же слова в обратном порядке. 
     При этом слова изменены так что в каждом слове первая буква большая а остальные маленькие.
 
-<img alt="alt text" src="C:\Lesson12\src\Screenshot.png" title="Screenshot of the result in the console"/>
+![Screenshot](https://github.com/ZNastasiZ/Lesson12/raw/main/src/Screenshot.png)
 
