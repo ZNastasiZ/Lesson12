@@ -13,5 +13,5 @@
 2*) Задана строка из английских слов через пробел. Написать метод который возвращает те же слова в обратном порядке. 
     При этом слова изменены так что в каждом слове первая буква большая а остальные маленькие.
 
-![Screenshot](https://github.com/ZNastasiZ/Lesson12/raw/main/src/Screenshot.png)
+![Screenshot](https://github.com/ZNastasiZ/Lesson12/raw/main/src/Screenshot.png "Screenshot of the result in the console")
 
