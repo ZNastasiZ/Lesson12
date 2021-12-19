@@ -2,7 +2,6 @@
 **Homework 12** consists of two tasks:
 
 ##
-
 <img alt="Screenshot" height="100" align="left" src="https://github.com/ZNastasiZ/Lesson12/raw/main/src/img.png" width="120"/>
     1) Есть 4 типа юнитов: башня, забор, содат и танк.
  	Забор ничего не делает и может быть разрушен
